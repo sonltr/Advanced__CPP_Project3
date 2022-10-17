@@ -1,0 +1,2 @@
+Common:s,s@sss.sss,11112222,1,1;General: Arabic,(GMT+04:00) ;Sound:0,0,0,0;Display:0,0,0;
+Common:e,e@ttt.ttt,44445555,5,5;General: German,(GMT-04:00) ;Sound:0,0,0,0;Display:0,0,0;
